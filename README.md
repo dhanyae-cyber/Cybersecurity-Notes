@@ -17,9 +17,8 @@ I’m following a structured learning path to cover:
     - Confidentiality – keeping information private and accessible only to authorized users.
     - Integrity – ensuring information is accurate, complete, and hasn’t been tampered with.
     - Availability – making sure systems and data are accessible when needed.
-
-   - Security principles
-   - Common threats and vulnerabilities
+    - 3. Security principles
+    -4. Common threats and vulnerabilities
 
 2. **Network Security**
    - TCP/IP fundamentals
