@@ -10,9 +10,14 @@ The goal is to **track my learning journey** while creating a useful resource fo
 I’m following a structured learning path to cover:
 
 1. **Basics of Cybersecurity**
-   - Introduction to cybersecurity
+   - 1. Introduction to cybersecurity
     - The body of technologies process and practices designed to protect networks, computers, programs and data from attack,    damage, unauthorized access or misues of authorized access
-    - Goal of cyber security : to reduce risk of cyber attacks to protect organization and individual from the  intentional and unintential exploitaion of security weaknesses and system network and technology.
+    - 2. Goals of Cybersecurity (CIA Triad) : to reduce risk of cyber attacks to protect organization and individual from the  intentional and unintential exploitaion of security weaknesses and system network and technology.
+    - The CIA triad is core to cybersecurity
+      Confidentiality – keeping information private and accessible only to authorized users.
+     Integrity – ensuring information is accurate, complete, and hasn’t been tampered with.
+     Availability – making sure systems and data are accessible when needed.
+
    - Security principles
    - Common threats and vulnerabilities
 
